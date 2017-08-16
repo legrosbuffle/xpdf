@@ -1,2 +1,1 @@
-# xpdf
-Mirror of xpdf
+This is a mirror of xpdf.
